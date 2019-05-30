@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/JB1905/react-parlx#readme",
   "dependencies": {
-    "parlx.js": "^2.0.3"
+    "parlx.js": "git@github.com:pmfawkes/parlx.js.git#517cd476396d8089a6438558f11a1877eb7ff225"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
